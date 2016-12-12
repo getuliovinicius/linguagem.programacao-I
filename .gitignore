@@ -30,4 +30,10 @@
 
 # Debug files
 *.dSYM/
-*.su
+
+# Others
+*.cbp
+*.layout
+*.depend
+*.bin/
+*.obj/
