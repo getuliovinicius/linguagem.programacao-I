@@ -1,0 +1,6 @@
+{
+  "name": "linguagem.programacao-I",
+  "tagline": "Exercícios da disciplina de Linguagem de Programação I",
+  "body": "Exercícios da disciplina de Linguagem de Programação I do curso de Analise e Desenvolvimento de Sistemas da FATEC de Franca.\r\n\r\n**Professor:** Fausto Gonçalves Cintra\r\n\r\nOs exercícios foram feitos em sala de aula utilizando:\r\n- IDE: Code::Blocks 16.01;\r\n- compilador: GCC 5.4.0.\r\n- Sistema Operacional: Ubuntu 16.04 LTS\r\n\r\nNo repositório estão somente os fontes, arquivos \\*.c e \\*.h.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
