@@ -37,3 +37,6 @@
 *.depend
 *.bin/
 *.obj/
+
+# documentacao
+/docs/site/
