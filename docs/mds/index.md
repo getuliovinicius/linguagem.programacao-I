@@ -1,5 +1,9 @@
 # linguagem.programacao-I
 
+## Repositório no Github:
+
+Acesse os exercícios no Repositório do Github [linguagem.programacao-I](https://github.com/getuliovinicius/linguagem.programacao-I).
+
 ## Descrição:
 
 Exercícios da disciplina de Linguagem de Programação I do curso de Analise e Desenvolvimento de Sistemas da FATEC de Franca.
@@ -14,3 +18,7 @@ Os exercícios foram feitos em sala de aula utilizando:
 - Sistema Operacional: Ubuntu 16.04 LTS
 
 No repositório estão somente os fontes, arquivos \*.c e \*.h.
+
+## Licença:
+
+[GNU GENERAL PUBLIC LICENSE - Version 3, 29 June 2007](https://github.com/getuliovinicius/linguagem.programacao-I/blob/master/LICENSE).
